@@ -1,0 +1,35 @@
+body {
+  font-family: arial, sans-serif;
+  line-height: 1cm;
+  margin: 5;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+  }
+
+header {
+  background-color: grey;
+  text-align: center;
+}
+
+section {
+  background-color: grey;
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: 20px;
+}
+
+footer {
+  background-color: grey;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+footer a {
+  font-family: arial, sans-serif;
+  color: blue;
+  text-decoration: none;
+}
